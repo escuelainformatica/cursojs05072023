@@ -26,9 +26,15 @@ git clone https://github.com/.....git
 * y esto va a descargar el proyecto en la carpeta actual de la terminal.
 
 ### aprobar cambios y subirlos a la nube
+O puede usar en visual studio la herramienta de source control. No hay que olvidar agregar los archivos (simbolo mas)
 
 ```shell
 git commit --all
 git push
 ```
+
+## Javascript 
+
+* JavaScript permite programacion orientada a objeto (OOP) -> TypeScript.   TypeScript es un transpiler.
+* JavaScript prefiere trabajar en lo que se llama programacion funcional. <-- este es nuestro enfoque.
 
