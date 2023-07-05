@@ -7,3 +7,9 @@ let auto={
     modelo: "toyota sedan"
 }
 console.log(auto);
+
+/*
+esto es un comentario de multiples lineas
+hola
+mundo
+*/
