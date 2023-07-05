@@ -25,3 +25,10 @@ git clone https://github.com/.....git
 ```
 * y esto va a descargar el proyecto en la carpeta actual de la terminal.
 
+### aprobar cambios y subirlos a la nube
+
+```shell
+git commit --all
+git push
+```
+
